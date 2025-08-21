@@ -2,7 +2,7 @@
 % Please edit documentation in R/firstfuntest.R
 \name{firstfun}
 \alias{firstfun}
-\title{Title}
+\title{Firstfun}
 \usage{
 firstfun(x)
 }
@@ -10,5 +10,5 @@ firstfun(x)
 \item{x}{}
 }
 \description{
-Title
+This is the first description of the first function.
 }

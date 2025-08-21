@@ -1,4 +1,6 @@
-#' Title
+#' Firstfun
+#' 
+#' This is the first description of the first function. 
 #'
 #' @param x 
 #'
